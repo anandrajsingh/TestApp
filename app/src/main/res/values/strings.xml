@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+
+    <string name="email">Email</string>
+    <string name="triosoft_address">5/6 Meera Complex M.P. Nagar Zone-2, Bhopal(M.P.), India</string>
+    <string name="moto">We are what our team is</string>
+    <string name="our_core_values">Our Core Values</string>
+    <string name="email_triosoft">info@triosoft.in</string>
+    <string name="website_triosoft">www.triosoft.in</string>
+    <string name="number1">+91 9425653634</string>
+    <string name="number2">, 0755-4902894</string>
+</resources>
